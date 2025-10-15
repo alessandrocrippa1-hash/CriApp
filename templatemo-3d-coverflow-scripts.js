@@ -70,6 +70,10 @@ https://templatemo.com/tm-595-3d-coverflow
             {
                 title: "Waterfall",
                 description: "Cascading water through lush green forest"
+            },
+            {
+                title: "Barbara",
+                description: "Abiti Cosplay"
             }
         ];
 
